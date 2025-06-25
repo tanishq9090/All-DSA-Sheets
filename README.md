@@ -27,7 +27,7 @@ The repository includes the following DSA sheets:
 | 5 | Apna college 375 Qs DSA sheet | https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview |
 | 6 | Siddharth Singh 450 Qs DSA Sheet | https://docs.google.com/spreadsheets/u/0/d/11tevcTIBQsIvRKIZLbSzCeN4mCO6wD4O5meyrAIfSXw/htmlview | 
 | 7 | The Code Skool DSA Sheet | https://docs.google.com/document/u/0/d/1RxKKXJtErQFJjMfAh1kV-DyQsZoiESayimFx6PPIhVE/mobilebasic 
-| 8 | Apna college DSA sheet Company Wise| [https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview]|
+| 8 | Apna college DSA sheet Company Wise| [[https://docs.google.com/spreadsheets/u/0/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/htmlview]](https://docs.google.com/spreadsheets/d/1mvlc8EYc3OVVU3X7NKoC0iZJr_45BL_pVxiJec0r94c/edit?gid=0#gid=0)|
 
 ## Getting Started
 To get started with the repository, you can clone the repository using the following command:
